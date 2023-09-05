@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  min-width: 325px;
+  font-size: 0.7rem;
+}
+.chapters {
+  padding: 2em;
+  margin: 2em;
+  border: solid 2px green;
+}
